@@ -1,6 +1,6 @@
 # Problem Solving Using Algorithms and Data Structures
 
-More than **100 hundred problems solved** using different algorithms and data structures
+More than **one hundred problems solved** using different algorithms and data structures
 
 You can also check my profile at this competitive programming spanish website https://www.aceptaelreto.com/user/profile.php
 
