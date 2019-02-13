@@ -2,8 +2,7 @@
 
 More than **one hundred problems solved** using different algorithms and data structures
 
-You can also check my profile at this competitive programming spanish website https://www.aceptaelreto.com/user/profile.php
-
+You can also check my profile at this competitive programming spanish website https://www.aceptaelreto.com/user/profile.php?id=7023
 # What I learned
 
 I learned Algorithms and Data structures at an **advanced** level and I acquire **strong problem solving skills**
