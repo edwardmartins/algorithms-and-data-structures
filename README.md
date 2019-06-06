@@ -7,6 +7,7 @@ The problems are divided by topic, for each topic there are several folders
 In each folder you can find a **.cpp file with the solution to the problem** and a **.pdf file with the problem statement**
 
 You can also check my profile at this competitive programming spanish website https://www.aceptaelreto.com/user/profile.php?id=7023
+
 # What I learned
 
 I learned Algorithms and Data structures at an **advanced** level and I acquire **strong problem solving skills**
