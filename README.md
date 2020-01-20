@@ -1,5 +1,7 @@
 # Problem Solving Using Algorithms and Data Structures
 
+![Learning-Data-Structures-and-Algorithms-is-Important](https://user-images.githubusercontent.com/36489953/72691597-d8c7f300-3b26-11ea-9b10-e8240e89fa09.png)
+
 More than **one hundred problems solved** using different algorithms and data structures
 
 The problems are divided by topic, for each topic there are several folders
